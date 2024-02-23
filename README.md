@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/256616733-c629edb3-daaa-4661-9613-5bd3415a3b85.png)
 <h1 align="center">Hi 👋, I'm Sriganesh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer </h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriganesh-sg07&label=Profile%20views&color=0e75b6&style=flat" alt="sriganesh-sg07" /> </p>
@@ -9,17 +9,19 @@
 
 - Actively Seeking **Full-Time Opportunities/Internship**
 
-- 🔭 I’m currently working on **Nutrition recommendation system(Final Year Project)**
+- 🔭 I’m currently working as **Mobile Application Developer at HDSoft Systems**
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **Android Studio Java**
 
 - 💬 Ask me about **mern stack**
+- **Mobile Application**
 
 - 📫 How to reach me **nsriganesh2002@gmail.com**
 
 - 📄 Resume [https://sriganeshresume.tiiny.site](https://sriganeshresume.tiiny.site)
 
 - ✍️ Experience **Software Engineer Intern at Kriyadocs (Chennai - Sep-Oct 2023 )**
+- **Software Developer Intern at HDSoftware Systems (Chennai Perungudi - Jan 2024 - Present)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
